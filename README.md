@@ -1,4 +1,5 @@
 # Suhail-Md-Media
+.list plugins
 
 
 
